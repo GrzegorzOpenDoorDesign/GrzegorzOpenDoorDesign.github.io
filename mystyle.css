@@ -30,8 +30,8 @@ body{
     top: 10%;
     font-size: 200%;
     margin-right: 3%;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .button:hover{
     background-image:url('giphy.gif'); background-repeat:repeat;
