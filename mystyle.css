@@ -1,12 +1,12 @@
 body{
     width: 100%;
     height: 100%;
-    background-color: darkgray;
+    background-color: #5db0da;
 }
 #menu {
     width: auto;
     height: 10%;
-    background-color: cadetblue;
+    background-color: #4293f5;
     padding: 15px 15px 15px 15px;
 }
 .button {
@@ -14,9 +14,9 @@ body{
     width: 20%;
     padding: 15px 15px 15px 15px;
     text-align: center;
-    background-color: brown;
+    background-color: #0066ff;
     position: relative;
-    top: 25%;
+    top: 10%;
     margin-right: 15px;
     font-size: large;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
