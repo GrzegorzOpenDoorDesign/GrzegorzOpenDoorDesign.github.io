@@ -11,9 +11,12 @@ body{
 }
 #logo {
     float: left;
-    width: 10%;
-    height: 10%;
-    background-color: red;
+    width: 15%;
+    height: 15%;
+    background-image:url(OpenDoorDesign_logo1.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
     align-self: center;
     margin-left: 1%;
     margin-top: 1%;

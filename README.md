@@ -1,2 +1,2 @@
 # GrzegorzOpenDoorDesign.github.io
-site
+main page of OpenDoorDesign
