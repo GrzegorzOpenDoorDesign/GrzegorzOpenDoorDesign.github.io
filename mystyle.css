@@ -3,3 +3,25 @@ body{
     height: 100%;
     background-color: darkgray;
 }
+#menu {
+    width: auto;
+    height: 10%;
+    background-color: cadetblue;
+    padding: 15px 15px 15px 15px;
+}
+.button {
+    float: left;
+    width: 20%;
+    padding: 15px 15px 15px 15px;
+    text-align: center;
+    background-color: brown;
+    position: relative;
+    top: 25%;
+    margin-right: 15px;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.button:hover{
+    background-image:url('giphy.gif'); background-repeat:repeat;
+    background-position: center;
+}
