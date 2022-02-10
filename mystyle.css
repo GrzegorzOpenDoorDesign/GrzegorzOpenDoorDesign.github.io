@@ -7,19 +7,31 @@ body{
     width: auto;
     height: 10%;
     background-color: #4293f5;
-    padding: 15px 15px 15px 15px;
+    padding: 0% 3% 3% 3%;
+}
+#logo {
+    float: left;
+    width: 10%;
+    height: 10%;
+    background-color: red;
+    align-self: center;
+    margin-left: 1%;
+    margin-top: 1%;
+    position: static;
 }
 .button {
-    float: left;
+    float: right;
     width: 20%;
-    padding: 15px 15px 15px 15px;
+    height: 80%;
+    padding: 1% 1% 1% 1%;
     text-align: center;
     background-color: #0066ff;
     position: relative;
     top: 10%;
-    margin-right: 15px;
-    font-size: large;
+    font-size: 200%;
+    margin-right: 3%;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
 }
 .button:hover{
     background-image:url('giphy.gif'); background-repeat:repeat;
