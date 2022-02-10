@@ -19,7 +19,7 @@ body{
     top: 10%;
     margin-right: 15px;
     font-size: large;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .button:hover{
     background-image:url('giphy.gif'); background-repeat:repeat;
